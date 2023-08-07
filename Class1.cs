@@ -14,3 +14,12 @@ class Product
     public string Name { get; set; }
     public double UnitPrice { get; set; }
 }
+
+class InvoiceItem
+{
+    public int ItemId { get; set; }
+    public string ItemName { get; set; }
+    public double UnitPrice { get; set; }
+    public int Quantity { get; set; }
+    public double QuantityAmount { get { return UnitPrice * Quantity; } }
+}
