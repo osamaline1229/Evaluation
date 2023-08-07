@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\Evaluation\bin\Debug\net6.0\Evaluation.exe
+C:\Users\TRA\Desktop\code-TRA\Evaluation\bin\Debug\net6.0\Evaluation.deps.json
+C:\Users\TRA\Desktop\code-TRA\Evaluation\bin\Debug\net6.0\Evaluation.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\Evaluation\bin\Debug\net6.0\Evaluation.dll
+C:\Users\TRA\Desktop\code-TRA\Evaluation\bin\Debug\net6.0\Evaluation.pdb
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.dll
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\refint\Evaluation.dll
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.pdb
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\Evaluation.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\Evaluation\obj\Debug\net6.0\ref\Evaluation.dll
