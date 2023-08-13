@@ -1,0 +1,10 @@
+Invoice Details
+Customer: rete
+Phone Number: 3432
+Invoice Date: 2023-08-08
+Number of Items: 2
+Total Amount: $40.00
+Paid Amount: $323.00
+Balance: ($283.00)
+Items:
+Item 2 (ID: 2), Quantity: 2, Unit Price: $20.00, Total: $40.00

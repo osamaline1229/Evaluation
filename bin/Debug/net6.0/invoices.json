@@ -1,0 +1,43 @@
+[
+  {
+    "CustomerFullName": "jhioj",
+    "PhoneNumber": "45",
+    "InvoiceDate": "2023-08-09T15:36:47.1214373+04:00",
+    "Items": [
+      {
+        "ItemId": 0,
+        "ItemName": null,
+        "UnitPrice": 45.0,
+        "Quantity": 4,
+        "TotalPrice": 180.0
+      },
+      {
+        "ItemId": 0,
+        "ItemName": null,
+        "UnitPrice": 45.0,
+        "Quantity": 4,
+        "TotalPrice": 180.0
+      }
+    ],
+    "TotalAmount": 360.0,
+    "PaidAmount": 4654.0,
+    "Balance": -4294.0
+  },
+  {
+    "CustomerFullName": "osama",
+    "PhoneNumber": "1234",
+    "InvoiceDate": "2023-08-10T12:18:49.1996548+04:00",
+    "Items": [
+      {
+        "ItemId": 432,
+        "ItemName": "ewrew",
+        "UnitPrice": 34.0,
+        "Quantity": 1,
+        "TotalPrice": 34.0
+      }
+    ],
+    "TotalAmount": 34.0,
+    "PaidAmount": 423432.0,
+    "Balance": -423398.0
+  }
+]
